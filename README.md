@@ -6,16 +6,16 @@ Based in the UK · Open to opportunities
 
 ## Projects
 
-- [**cyber-labs-notes**](https://github.com/vhkarpuk/cyber-labs-notes) — TryHackMe/HackTheBox lab notes and tool cheat sheets
+- [**cyber-labs-notes**](https://github.com/vhkarpuk/cyber-labs-notes) — HackTheBox walkthroughs with OWASP/CWE-mapped findings
+- [**garak-llm-assessment**](https://github.com/vhkarpuk/garak-llm-assessment) — Adversarial testing of local LLMs with [garak](https://github.com/NVIDIA/garak), mapped to the OWASP LLM Top 10
 - [**c-programming-labs**](https://github.com/vhkarpuk/c-programming-labs) — University C coursework: CSV persistence, sorting, tracking apps
-- **garak-llm-assessment** *(in progress)* — Security testing for local LLMs using [Garak](https://github.com/NVIDIA/garak)
 - Cloud security projects *(coming soon)*
 
 ## Skills
 
 **Languages:** C, Python, Bash
-**Security tools:** Nmap, Burp Suite, Metasploit, Wireshark
-**Platforms:** Linux, Windows Server, Git
+**Security tools:** Nmap, garak
+**Platforms:** Linux, Windows Server, Ollama, Git
 
 ## Links
 
