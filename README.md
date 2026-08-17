@@ -6,6 +6,7 @@ Based in the UK · Open to opportunities
 
 ## Projects
 
+- [**ml-model-supply-chain-lab**](https://github.com/vhkarpuk/ml-model-supply-chain-lab) — Hands-on lab series on why loading an ML model can execute arbitrary code, and how to detect and defend against it
 - [**cyber-labs-notes**](https://github.com/vhkarpuk/cyber-labs-notes) — HackTheBox walkthroughs with OWASP/CWE-mapped findings
 - [**garak-llm-assessment**](https://github.com/vhkarpuk/garak-llm-assessment) — Adversarial testing of local LLMs with [garak](https://github.com/NVIDIA/garak), mapped to the OWASP LLM Top 10
 - [**c-programming-labs**](https://github.com/vhkarpuk/c-programming-labs) — University C coursework: CSV persistence, sorting, tracking apps
@@ -15,7 +16,7 @@ Based in the UK · Open to opportunities
 
 **Languages:** C, Python, Bash
 **Security tools:** Nmap, garak
-**Platforms:** Linux, Windows Server, Ollama, Git
+**Platforms:** Linux, Windows Server, Git
 
 ## Links
 
