@@ -17,8 +17,11 @@ Based in the UK · Open to opportunities
 ## Skills
 
 **Languages:** C, Python, Bash
+
 **Security tools:** Nmap, garak, LangChain
+
 **Focus:** Offensive security, AI/LLM security, red teaming
+
 **Platforms:** Linux, Windows Server, Git
 
 ## Certifications
