@@ -8,6 +8,7 @@ Based in the UK · Open to opportunities
 
 ## Projects
 
+- [**portswigger-web-security**](https://github.com/vhkarpuk/portswigger-web-security) — Web application pentesting lab write-ups from the PortSwigger Web Security Academy
 - [**offensive-recon-agent**](https://github.com/vhkarpuk/offensive-recon-agent) — Autonomous LLM agent (LangChain/LangGraph) that runs real recon and validates its own findings in deterministic code, eliminating hallucinated results
 - [**garak-llm-assessment**](https://github.com/vhkarpuk/garak-llm-assessment) — Adversarial testing of local LLMs with [garak](https://github.com/NVIDIA/garak), mapped to the OWASP LLM Top 10
 - [**ml-model-supply-chain-lab**](https://github.com/vhkarpuk/ml-model-supply-chain-lab) — Hands-on lab series on why loading an ML model can execute arbitrary code, and how to detect and defend against it
