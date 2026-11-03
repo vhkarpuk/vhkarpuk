@@ -27,7 +27,7 @@ Based in the UK · Open to opportunities
 
 ## Certifications
 
-PJPT · PNPT (in progress) · OSCP (in progress)
+PJPT · PNPT · OSCP (in progress)
 
 ## Links
 
